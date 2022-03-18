@@ -6,4 +6,4 @@ Git is mind blowing !
 
 Today is Friday and it is sunny 🦖
 
-This line was added from my coputer
+This line was added from my computer
