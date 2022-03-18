@@ -6,4 +6,8 @@ Git is mind blowing !
 
 Today is Friday and it is sunny 🦖
 
+<<<<<<< HEAD
 This line was added from my computer
+=======
+This is a remote change
+>>>>>>> origin/main
