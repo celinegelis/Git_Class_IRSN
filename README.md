@@ -7,3 +7,6 @@ Git is mind blowing !
 Today is Friday and it is sunny 🦖
 
 this line is added from Github website
+This line was added from my computer
+
+This is another modification
